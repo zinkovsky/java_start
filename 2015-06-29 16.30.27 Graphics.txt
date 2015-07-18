@@ -1,0 +1,18 @@
+﻿GFX  16:30:27.024 DXGI: Available
+GFX  16:30:27.145 Resource Cache Override Variable: 0MB
+GFX  16:30:27.145 Resource Cache: 996MB Win64 (3984MB Physical, 3544MB Process Virtual)
+GFX  16:30:27.168 Selected display mode 1366x768x0 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  16:30:27.168 Adapter [0]: Intel(R) HD Graphics Family (VendorID 0x8086 DeviceID 0xa16)
+GFX  16:30:27.168 Attempting CreateDevice on adapter [0] (VendorID 0x8086 DeviceID 0xa16)
+GFX  16:30:27.298 Intel Integrated GPU using vertex processing type [Hardware]
+GFX  16:30:27.298 CreateDevice succeeded
+GFX  16:30:27.298 Using adapter [0]
+GFX  16:30:27.298 Floating point render targets supported.
+GFX  16:30:27.299 DXGI Adapter Name: Intel(R) HD Graphics Family
+GFX  16:30:27.299 VRAM Detected: Dedicated [2076MB] Shared [1992MB] (DXGI)
+GFX  16:30:27.299 VRAM Override Variables: Dedicated [0MB] Shared [0MB]
+GFX  16:30:27.299 Initialized D3D9 GraphicsDevice: Intel(R) HD Graphics Family (Driver Version: 8.17.10.1242, VRAM: 2076MB, SVMEM: 1992MB).
+GFX  16:30:27.328 Selected display mode 1366x768x0 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  16:30:27.330 VRAM texture space: 996MB
+GFX  16:30:28.405 PerfNotifiers initialized
+GFX  16:30:50.729 Lost D3D9 device
