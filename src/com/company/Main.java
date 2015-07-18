@@ -3,7 +3,13 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
-        System.out.println("Hello my lovely java!!!");
+        int a = 10;
+        int b = 20;
+
+        if (a < b) {
+            System.out.println("pizdezsh");
+        } else {
+            System.out.println("true!!!");
+        }
     }
 }
